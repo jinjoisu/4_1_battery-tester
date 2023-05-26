@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-kitronik-air-quality-v2-only": "github:kitronikltd/pxt-kitronik-air-quality-v2-only#v1.3.6"
     },
     "files": [
         "main.ts",
